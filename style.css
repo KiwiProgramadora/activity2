@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(246, 251, 166);
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
